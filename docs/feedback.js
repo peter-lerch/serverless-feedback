@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://d526c02f.eu-gb.apiconnect.appdomain.cloud/07-feedback';
+const apiUrl = 'https://d526c02f.eu-gb.apiconnect.appdomain.cloud/22-feedback';
 const feedback = {
   // retrieve the existing feedback entries
   get() {
